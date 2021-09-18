@@ -1,5 +1,5 @@
 import Layout from '../Component/Layout'
-import data from "../utilities/data";
+import {data} from "../utilities/data";
 import Image from 'next/image'
 const Home = () => {
 	return (
