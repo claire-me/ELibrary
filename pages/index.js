@@ -8,6 +8,7 @@ const Home = () => {
 				{data.products.map((product) => (
 					<div>
 						<div>
+							<h1>Elibrary</h1>
 							<h2>{product.title}</h2>
 							<p>{product.body}</p>
 							<button>Add to cart</button>
