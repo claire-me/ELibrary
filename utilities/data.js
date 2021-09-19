@@ -1,40 +1,105 @@
 export const data = {
 	products: [
 		{
-			userId: 1,
 			id: 1,
-			title:
-				"sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-			body:
-				"quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+			author: "Florin smiley",
+			title: "Ten++ Ways to Make Money as a Developer",
+			image:
+				"https://public-files.gumroad.com/variants/k8ea45p3f4sslv7qohz5cp5wu8sl/3298c3eb001bbed90f1d616da66708480096a0a1b6e81bd4f8a2d6e9b831d301",
+			price: 25,
+			description: "Web development",
+			category: "Tech",
 		},
 		{
-			userId: 1,
-			id: 2,
-			title: "qui est esse",
-			body:
-				"est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla",
+			id: 1,
+			author: "Kaarthik",
+			title: "A Complete Web Development Cheat Sheet",
+			image:
+				"https://public-files.gumroad.com/variants/k8ea45p3f4sslv7qohz5cp5wu8sl/3298c3eb001bbed90f1d616da66708480096a0a1b6e81bd4f8a2d6e9b831d301",
+			price: 0,
+			description: "Web development",
+			category: "Tech",
 		},
 		{
-			userId: 1,
-			id: 3,
-			title: "ea molestias quasi exercitationem repellat qui ipsa sit aut",
-			body:
-				"et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut",
+			id: 1,
+			author: "Florin Pop",
+			title: "Ten++ Ways to Make Money as a Developer",
+			image:
+				"https://public-files.gumroad.com/variants/k8ea45p3f4sslv7qohz5cp5wu8sl/3298c3eb001bbed90f1d616da66708480096a0a1b6e81bd4f8a2d6e9b831d301",
+			price: 25,
+			description: "Web development",
+			category: "Tech",
 		},
 		{
-			userId: 1,
-			id: 4,
-			title: "eum et est occaecati",
-			body:
-				"ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit",
+			id: 1,
+			author: "Florin Pop",
+			title: "Ten++ Ways to Make Money as a Developer",
+			image:
+				"https://public-files.gumroad.com/variants/k8ea45p3f4sslv7qohz5cp5wu8sl/3298c3eb001bbed90f1d616da66708480096a0a1b6e81bd4f8a2d6e9b831d301",
+			price: 25,
+			description: "Web development",
+			category: "Tech",
 		},
 		{
-			userId: 1,
-			id: 5,
-			title: "nesciunt quas odio",
-			body:
-				"repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque",
+			id: 1,
+			author: "Florin Pop",
+			title: "Ten++ Ways to Make Money as a Developer",
+			image:
+				"https://public-files.gumroad.com/variants/k8ea45p3f4sslv7qohz5cp5wu8sl/3298c3eb001bbed90f1d616da66708480096a0a1b6e81bd4f8a2d6e9b831d301",
+			price: 25,
+			description: "Web development",
+			category: "Tech",
+		},
+
+		{
+			id: 1,
+			author: "Florin Pop",
+			title: "Ten++ Ways to Make Money as a Developer",
+			image:
+				"https://public-files.gumroad.com/variants/k8ea45p3f4sslv7qohz5cp5wu8sl/3298c3eb001bbed90f1d616da66708480096a0a1b6e81bd4f8a2d6e9b831d301",
+			price: 25,
+			description: "Web development",
+			category: "Tech",
+		},
+		{
+			id: 1,
+			author: "Florin Pop",
+			title: "Ten++ Ways to Make Money as a Developer",
+			image:
+				"https://public-files.gumroad.com/variants/k8ea45p3f4sslv7qohz5cp5wu8sl/3298c3eb001bbed90f1d616da66708480096a0a1b6e81bd4f8a2d6e9b831d301",
+			price: 25,
+			description: "Web development",
+			category: "Tech",
+		},
+		{
+			id: 1,
+			author: "Florin Pop",
+			title: "Ten++ Ways to Make Money as a Developer",
+			image:
+				"https://public-files.gumroad.com/variants/k8ea45p3f4sslv7qohz5cp5wu8sl/3298c3eb001bbed90f1d616da66708480096a0a1b6e81bd4f8a2d6e9b831d301",
+			price: 25,
+			description: "Web development",
+			category: "Tech",
+		},
+		{
+			id: 1,
+			author: "Florin Pop",
+			title: "Ten++ Ways to Make Money as a Developer",
+			image:
+				"https://public-files.gumroad.com/variants/k8ea45p3f4sslv7qohz5cp5wu8sl/3298c3eb001bbed90f1d616da66708480096a0a1b6e81bd4f8a2d6e9b831d301",
+			price: 25,
+			description: "Web development",
+			category: "Tech",
+		},
+		{
+			id: 1,
+			author: "Florin Pop",
+			title: "Ten++ Ways to Make Money as a Developer",
+			image:
+				"https://public-files.gumroad.com/variants/k8ea45p3f4sslv7qohz5cp5wu8sl/3298c3eb001bbed90f1d616da66708480096a0a1b6e81bd4f8a2d6e9b831d301",
+			price: 25,
+			description: "Web development",
+			category: "Tech",
 		},
 	],
 };
